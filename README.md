@@ -5,4 +5,4 @@ Daftar tugas / branch
 4. Tugas-js
 5. Tugas-midProject
 6. Tugas-php
-7. Tugas-finalProjecct
+7. Tugas-finalProject
